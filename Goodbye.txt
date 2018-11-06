@@ -5,3 +5,4 @@ bb is not a bug
 aa
 cc
 This is the result
+finish
